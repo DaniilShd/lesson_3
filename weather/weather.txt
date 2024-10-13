@@ -1,0 +1,7 @@
+Monday: 22°C
+Tuesday: 24°C
+Wednesday: 21°C
+Thursday: 23°C
+Friday: 25°C
+Saturday: 22°C
+Sunday: 20°C
